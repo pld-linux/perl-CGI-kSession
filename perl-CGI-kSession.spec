@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	CGI
-%define	pnam	kSession
+%define		pdir	CGI
+%define		pnam	kSession
 Summary:	CGI::kSession - a session management module
 Summary(pl):	CGI::kSession - zarz±dzanie sesjami
 Name:		perl-CGI-kSession
