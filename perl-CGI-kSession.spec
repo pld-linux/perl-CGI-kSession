@@ -9,7 +9,7 @@ Summary:	CGI::kSession - a session management module
 Summary(pl):	CGI::kSession - zarz±dzanie sesjami
 Name:		perl-CGI-kSession
 Version:	0.5.3
-Release:	2
+Release:	3
 License:	GPL
 Vendor:		Marcin Krzyzanowski <krzak@linux.net.pl>
 Group:		Development/Languages/Perl
@@ -22,7 +22,6 @@ BuildRequires:	rpm-perlprov >= 4.1-13
 BuildRequires:	perl-Digest-MD5
 BuildRequires:	perl-DB_File
 BuildRequires:	perl-FreezeThaw
-BuildRequires:	perl-Storable
 %endif
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
