@@ -5,8 +5,8 @@
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	CGI
 %define	pnam	kSession
-Summary:	CGI::kSession - A session management module
-Summary(pl):	CGI::kSession - Zarz±dzanie sesjami
+Summary:	CGI::kSession - a session management module
+Summary(pl):	CGI::kSession - zarz±dzanie sesjami
 Name:		perl-CGI-kSession
 Version:	0.5.3
 Release:	1
