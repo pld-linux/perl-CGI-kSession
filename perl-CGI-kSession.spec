@@ -6,7 +6,7 @@
 %define		pdir	CGI
 %define		pnam	kSession
 Summary:	CGI::kSession - a session management module
-Summary(pl):	CGI::kSession - zarz±dzanie sesjami
+Summary(pl.UTF-8):   CGI::kSession - zarzÄ…dzanie sesjami
 Name:		perl-CGI-kSession
 Version:	0.5.3
 Release:	3
@@ -32,10 +32,10 @@ management module, it uses files with a configurable lifetime to
 handle your session data. For those of you familiar with PHP, you will
 notice that the session syntax is a little bit similar.
 
-%description -l pl
-Ten modu³ mo¿e byæ u¿yty wszêdzie gdzie potrzebujesz sesji. U¿ywa
-plików do przechowywania danych o sesji. Osoby które mia³y styczno¶æ z
-jêzykiem PHP zauwa¿± ¿e sk³adnia jest podobna do stosowanej w PHP.
+%description -l pl.UTF-8
+Ten moduÅ‚ moÅ¼e byÄ‡ uÅ¼yty wszÄ™dzie gdzie potrzebujesz sesji. UÅ¼ywa
+plikÃ³w do przechowywania danych o sesji. Osoby ktÃ³re miaÅ‚y stycznoÅ›Ä‡ z
+jÄ™zykiem PHP zauwaÅ¼Ä… Å¼e skÅ‚adnia jest podobna do stosowanej w PHP.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}
