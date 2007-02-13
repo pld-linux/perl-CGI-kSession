@@ -6,7 +6,7 @@
 %define		pdir	CGI
 %define		pnam	kSession
 Summary:	CGI::kSession - a session management module
-Summary(pl.UTF-8):   CGI::kSession - zarządzanie sesjami
+Summary(pl.UTF-8):	CGI::kSession - zarządzanie sesjami
 Name:		perl-CGI-kSession
 Version:	0.5.3
 Release:	3
